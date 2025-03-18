@@ -2,7 +2,7 @@
 <h3 align="center">A Passionate Full Stack Developer</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=godsoncodes-cpu&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
+  <img src="https://komarev.com/ghpvc/?username=GodsonBuilds&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
 </p>
 
 <!-- Add your banner image here -->
@@ -29,20 +29,20 @@ I'm a JavaScript Lover 😍 and a Full Stack Developer specializing in the **MER
 ### 📊 GitHub Stats:
 <p align="center">
   
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=godsoncodes-cpu&theme=radical" alt="GitHub Streak Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=GodsonBuilds&theme=radical" alt="GitHub Streak Stats" />
 </p>
 
 ### 📈 Most Used Languages:
 
 <p align="center" style="display: flex; justify-content: center; gap: 50px; align-items: center; height:500px">
-  <img src="https://github-readme-stats.vercel.app/api?username=godsoncodes-cpu&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=godsoncodes-cpu&layout=compact&theme=radical" alt="Used Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=GodsonBuilds&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GodsonBuilds&layout=compact&theme=radical" alt="Used Languages" />
 </p>
 
 ### 🏆 GitHub Trophies:
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=godsoncodes-cpu&theme=radical&no-frame=false&no-bg=true&margin-w=4" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=GodsonBuilds&theme=radical&no-frame=false&no-bg=true&margin-w=4" alt="GitHub Trophies" />
 </p>
 
 ### 📫 How to Reach Me:
